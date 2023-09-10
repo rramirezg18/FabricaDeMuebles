@@ -1,7 +1,8 @@
 # FabricaDeMuebles
 Factory Method aplicado a una fabrica de muebles
 
-Las clases con el código fuente aplicando el factory method se encuentran en la carpeta *src*
+Las clases con el código fuente aplicando el factory method se encuentran en la carpeta *src*.
+
 
 ##Diagrama de clases
 
